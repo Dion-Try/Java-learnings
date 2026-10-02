@@ -47,6 +47,4 @@ java -cp out Main
 `PoJoe` has its sources one level deeper (`Exercises/PoJoe/PoJoe/src`). In `AllAboutStrings`,
 run `StringMethods` as well.
 
-## More
 
-My portfolio with further projects: https://dion-elshani-cv.netlify.app
